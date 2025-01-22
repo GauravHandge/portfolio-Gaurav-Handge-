@@ -43,7 +43,7 @@ function App() {
             <div className="w-full h-full rounded-full overflow-hidden border-4 border-white/10 shadow-2xl">
               <img src="./1737093869216.jpg" alt="Passport Photograph"/> 
                 className="w-full h-full object-cover"
-              />
+              
             </div>
             <div className="absolute inset-0 rounded-full bg-blue-500/10 backdrop-blur-sm -z-10 transform scale-110"></div>
           </div>
