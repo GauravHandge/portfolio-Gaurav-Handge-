@@ -41,9 +41,7 @@ function App() {
         <div className={`max-w-6xl mx-auto flex flex-col md:flex-row items-center gap-12 transform transition-all duration-1000 ${isVisible ? 'translate-y-0 opacity-100' : 'translate-y-10 opacity-0'}`}>
           <div className="w-64 h-64 md:w-80 md:h-80 relative">
             <div className="w-full h-full rounded-full overflow-hidden border-4 border-white/10 shadow-2xl">
-              <img 
-                src="./1737093869216.jpg" 
-                alt="Passport Photograph" 
+              <img src="./1737093869216.jpg" alt="Passport Photograph"> 
                 className="w-full h-full object-cover"
               />
             </div>
